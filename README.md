@@ -56,7 +56,6 @@ In this repository, you will find:
 
 This course is open to contributions from the community. If you have suggestions for improvements or would like to contribute additional resources, feel free to open an issue or submit a pull request.
 
-## License
 
 
 
